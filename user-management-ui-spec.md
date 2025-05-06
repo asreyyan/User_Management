@@ -47,7 +47,7 @@ Buttons:
 
 ---
 
-## Behavior on Load
+## Initial UI State on Page Load
 
 - The user list should be populated with all enabled users.
 - Disabled users are hidden by default (can be shown via checkbox).
